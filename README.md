@@ -6,15 +6,10 @@ The purpose of this file is to give some insight to the catahoula leopard dog br
 
 The following pages are included in this repository:
 
-Introduction to Catahoula Leopard Dogs
+[Introduction to Catahoula Leopard Dogs](intro.md)
 
-About Not-So-Graceful Gracee
+[About Not-So-Graceful Gracee](gracee.md)
 
-Support Animal Rescue Organizations
+[Support Animal Rescue Organizations](support.md)
 
-### Introduction to Catahoula Leopard Dogs
-![Catahoula Leopard Dog](https://front.embarkvet.com/img/breeds/catahoula_leopard_dog_v2.png)
 
-Read:
-[embarkvet: Catahoula Leopard Dog](https://embarkvet.com/resources/dog-breeds/catahoula-leopard-dog/)
-[NALC: National Association of Leopard Catahoulas, Inc.](https://www.nalc-inc.org/)
