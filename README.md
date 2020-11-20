@@ -10,6 +10,4 @@ The following pages are included in this repository:
 
 [About Not-So-Graceful Gracee](gracee.md)
 
-[Support Animal Rescue Organizations](support.md)
-
 
